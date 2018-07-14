@@ -1,0 +1,24 @@
+*{margin:0;padding:0}
+body{font-family:Arial;font-size:16px;line-height:30px;color:#000;background:url(images/IMAGESS.jpg)repeat fixed}
+
+	.main{width:960px;margin:20px auto;display:block;overflow:hidden;background:#EDEDED}
+	.header{}
+	.header img{width:960px;height:250px}
+	.menu{background:#FFB666;overflow:hidden;}
+	.menu ul{margin:0;padding:0;list-style:none}
+	.menu ul li{float:left;border-right:2px solid #ddd;font-size:20px}
+	.menu ul li a{display:block;color:#000;padding:7px 20px;text-decoration:none}
+	.menu ul li a:hover{background:#fff;font-size:25px;}
+	
+	
+	.maincontent{overflow:hidden;margin-top:30px;margin-left:30px;font-family:'open_sansbold_italic';}
+	.maincontent h2{margin-bottom:15px;}
+	.content{float:left;width:600px;margin-right:30px;
+	}
+	.sideber{float:right;width:300px;background:#FFB666;}
+	.sideber h2{background:#FFF;padding:10px}
+	.sideber ul{list-style:none}
+	.sideber ul li{padding:5px;border-bottom:1px solid #18C0F6;font-size:20px}
+	.sideber ul li a{text-decoration:none;color:#000}
+	.sideber ul li a:hover{background:#fff;padding:7px;font-size:25px}
+	.footer{background:#333;color:fff;margin-top:25px;padding:10px}
